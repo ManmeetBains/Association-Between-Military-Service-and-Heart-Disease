@@ -1,2 +1,4 @@
 # BRFSS-2011-2017
 Investigating Association Between Military Service and Heart Disease (BRFSS 2011 - 2017)
+
+The association between military service and heart disease was assessed using the 2011 to 2017 BRFSS data. Responses from 2,559,476 BRFSS survey respondents were analyzed for self-reported cases of heart disease (coronary heart disease and myocardial infarction). The prevalence of heart disease was compared between veterans and non-veterans using logistic regression models. Weighted logistic regression models were used to validate the results obtained through logistic regression. Veterans were found to be more likely than non-veterans to report having heart disease (odds ratio, 1.26; 95% confidence interval, 1.24 - 1.28). The findings of this study highlight the need to further investigate the nature of the association between military service and heart disease.
